@@ -1,9 +1,9 @@
 //
 //  ZYTipsView.m
-//  photo
 //
-//  Created by admin on 17/4/26.
-//  Copyright © 2017年 poco. All rights reserved.
+//
+//  Created by Zhuoyu on 17/4/26.
+//  Copyright © 2017年 Zhuoyu All rights reserved.
 //
 
 #import "ZYTipsView.h"
