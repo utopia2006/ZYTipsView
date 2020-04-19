@@ -16,16 +16,15 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ZYTipsView"
-  spec.version      = "1.0.0"
-  spec.summary      = "A short description of ZYTipsView."
+  spec.version      = "1.0.2"
+  spec.summary      = "short desc of ZYTipsView."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = <<-DESC
-                   DESC
+  spec.description  = "软件使用提示提示功能,显示箭头提示"
 
   spec.homepage     = "https://github.com/utopia2006/ZYTipsView"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -90,7 +89,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "ZYTipsView/ZYTipsView/ZYTipsView.{h,m}"
+  spec.source_files  = "ZYTipsView/ZYTipsView/ZYTipsView.{h,m}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
